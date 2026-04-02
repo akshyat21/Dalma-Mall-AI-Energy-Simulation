@@ -1,4 +1,4 @@
-# 🏙️ Dalma Mall | Energy Intelligence Simulation Engine (v6.0)
+# 🏙️ Dalma Mall | Energy Intelligence Simulation Engine
 
 ### 🚀 The Mission: From Reactive to Predictive
 In the extreme climate of Abu Dhabi, cooling accounts for the vast majority of operational expenditure. The **Dalma Energy Simulation Engine** transitions mall operations from a **Reactive** approach (responding to heat after it arrives) to a **Proactive** strategy (simulating demand 24-48 hours in advance). 
